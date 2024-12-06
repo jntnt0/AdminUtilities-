@@ -1,0 +1,1 @@
+pnputil /add-driver "C:\Users\jtant\Downloads\GPlus_PCL6_Driver_V311_W64_00\Driver\CNP60MA64.INF" /install     
